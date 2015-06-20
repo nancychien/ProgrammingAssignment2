@@ -50,7 +50,7 @@ cacheSolve <- function(x, ...) {
 }
 
 # Test result
-k <- matrix(c(4,1,3,1),2,2) 
-k
-tmp = makeCacheMatrix(k)
-cacheSolve(tmp)
+#k <- matrix(c(4,1,3,1),2,2) 
+#k
+#tmp = makeCacheMatrix(k)
+#cacheSolve(tmp)
